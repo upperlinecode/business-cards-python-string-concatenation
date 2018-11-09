@@ -12,7 +12,7 @@ The following three major skills are really useful, but you may be able to at le
 
 ### User Input
 
-In the example above, you can see that the user is entering four pieces of information about him/herself into the console.
+In the example above, you can see that the user is entering three pieces of information about him/herself into the console.
 
 Making something like this work requires two lines of code: one to tell the user WHAT they're typing in, and another to get and store the input from the user.
 
