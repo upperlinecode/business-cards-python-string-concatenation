@@ -4,7 +4,7 @@
 
 Let's create a program that prints out a beautiful command-line business card like this one:
 
-![Example of User Input Cards](Interpolate.gif)
+![Example of User Input Cards](Concatenate.gif)
 
 ## Skills you may need
 
