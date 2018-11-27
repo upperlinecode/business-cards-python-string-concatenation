@@ -1,5 +1,4 @@
-print("What is your name?")
-name = input()
+name = input("What is your name?")
 
 
 
