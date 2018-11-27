@@ -14,13 +14,10 @@ The following three major skills are really useful, but you may be able to at le
 
 In the example above, you can see that the user is entering three pieces of information about him/herself into the console.
 
-Making something like this work requires two lines of code: one to tell the user WHAT they're typing in, and another to get and store the input from the user.
-
 Here's one example
 
 ```python
-print("What is your position?") #This line of code is so the USER knows what to enter.
-job = input() # the left side means we will store the user's position in a variable called job.
+job = input("What is your position?") # the left side means we will store the user's position in a variable called job.
 ```
 
 `input()` means, in plain English,  "whatever the user types in." So that line will store whatever the user enters as a string in a variable called job.
