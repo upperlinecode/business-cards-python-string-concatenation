@@ -6,7 +6,7 @@
 
 Let's create a program that prints out a beautiful command-line business card like this one:
 
-![Example of User Input Cards](Concatenate.gif)
+![Example of User Input Cards](https://github.com/upperlinecode/business-cards-python-string-concatenation/blob/main/Concatenate.gif)
 
 ## Skills you may need
 
