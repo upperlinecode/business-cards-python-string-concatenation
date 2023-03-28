@@ -10,7 +10,7 @@ Let's create a program that prints out a beautiful command-line business card li
 
 ## Skills you may need
 
-The following three major skills are really useful, but you may be able to at least _start_ without them. If you want to jump right into the lab, code your business card maker in the file called cards.py, and run it using the command `python cards.py`.
+The following three major skills are really useful, but you may be able to at least _start_ without them. If you want to jump right into the lab, code your business card maker in the file called main.py, and run it using the command `python main.py`.
 
 ### User Input
 
